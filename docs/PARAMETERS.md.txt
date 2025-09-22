@@ -1,0 +1,16 @@
+Historical Testing	: No
+Position Size		: -
+OR Start 		: 08:31 AM
+OR End Time		: 08:45 AM
+
+ATM Switch		: Yes
+Flatten By: 		: Yes
+Flatten Time		: 03:00 PM
+ABE			: No
+ABE Value  		: 1
+Fee Coverage		: -
+
+Instrument		: - 
+Price Based on		: Last
+Type			: Minute
+Value			: 1

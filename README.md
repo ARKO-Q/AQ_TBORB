@@ -44,7 +44,6 @@ The system is suitable for both live execution and backtesting, with fully optim
 2. Open **NinjaTrader 8**.  
 3. Go to: `Tools → Import → NinjaScript Add-On`.  
 4. Select the downloaded **ZIP file** (`AQDFCSITBORB.zip`).  
-5. Once imported, compile the script (`F5`).  
 6. You will now see **AQDFCSITBORB** available under strategies in the platform.
 
 Note: If you do not wish to import the compiled .zip, you must download the source code under /src, place it into the ninjatrader data folder within your mahchine, and proceed to compile it manually, after which, it will be accesible in the platform.

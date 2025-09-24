@@ -1,10 +1,14 @@
 # AQTBORB - Time Based Opening Range Breakout System
 
-A Custom **NinjaTrader 8 automated strategy** developed by **ARKO Quantum S.R.L.**  
+A Custom **NinjaTrader 8** automated strategy developed by **ARKO Quantum S.R.L.** for the American futures market.
 
-This system is designed to capture intraday breakouts based on a user-defined, time-based, opening range window. It automatically places stop market orders above and below the range and includes advanced position management tools such as **auto breakeven stops** and **scheduled account flattening**.  
+This system is designed to capture intraday breakouts within a user-defined, time-based opening range. It automatically places stop market orders above and below the range and incorporates advanced position management features, including auto breakeven stops and scheduled account flattening.
 
-The system is suitable for both **live execution** and **backtesting**, with optimizable parameters to help refine performance through diverse optimization processes such as standard and walk forward optimizations, Monte Carlo simulations, and Genetic Analysis.
+TBORB places strong emphasis on the timeliness of the selected window or time period. Unlike other systems with a similar methodology, this algorithm does not incorporate a volatility factor when calculating stop prices. Instead, it uses the high and low of the opening range as thresholds, which function in practice as market exposure triggers.
+
+Observers will realize that the system’s structure resembles a long straddle, where the focus is on capturing movements rather than predicting direction. In TBORB, once a threshold is crossed, the subsequent move is largely driven by market microstructure dynamics. Specifically, the depth of the order book often becomes unbalanced or asymmetrical, with limited opposing liquidity, allowing the price to continue moving in the breakout direction with minimal resistance. This mechanism operates independently of the move’s direction, making the approach effectively market-neutral, as it is designed to capture breakouts regardless of whether the market moves up or down.
+
+The system is suitable for both live execution and backtesting, with fully optimizable parameters. Performance can be refined through a range of processes, including standard and walk-forward optimizations, Monte Carlo simulations, and genetic analysis.
 
 ---
 

@@ -37,12 +37,12 @@ using NinjaTrader.Gui.NinjaScript.StrategyAnalyzer;
  * File	            :   AQDFCSITBORB.cs                                                
  * Author			:   ARKO Quantum S.R.L.                                              
  * Created          :   04/03/2025                                                         
- * Updated			:	08/04/2025                                                            
+ * Updated			:	09/24/2025                                                            
  * ----------------------------------------------------------------------------            
  * Email            :   contacto@arkoquantum.com                                              
  * Website          :   arkoquantum.com                                                        
  *                                                                             
- * Copyright � ARKO Quantum S.R.L. 2025. All rights reserved.                            
+ * Licensed under the terms of GNU General Public License v3.0                          
  *****************************************************************************/
 
 /******************************************************************************
@@ -390,3 +390,4 @@ namespace NinjaTrader.NinjaScript.Strategies.ARKOQuantum
     }
 }
 #endregion
+

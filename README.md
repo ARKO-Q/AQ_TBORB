@@ -68,6 +68,28 @@ Note: If you do not wish to import the compiled .zip, you must download the sour
 
 ---
 
+## References
+
+The development of AQTBORB was inspired by the following research:
+
+1. Holmberg, Ulf, et al. *Assessing the Profitability of Intraday Opening Range Breakout Strategies*. Umeå University, 2012. [PDF](https://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A553015)
+
+2. Lundström, Christian. *Day Trading Returns Across Volatility States*. Umeå University, 2017. [PDF](https://www.diva-portal.org/smash/get/diva2%3A732318/FULLTEXT02.pdf)
+
+3. Wu, Mu-En, et al. *Evolutionary ORB-Based Model with Protective Closing Strategies*. Elsevier, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121000320)
+
+4. Wang, Chia-Jung, et al. *Assessing the Profitability of Timely Opening Range Breakout on Index Futures Markets*. IEEE Access, vol. 7, 2019, pp. 32061–32071. [Link](https://ntut.elsevierpure.com/en/publications/assessing-the-profitability-of-timely-opening-range-breakout-on-i)
+
+5. Syu, Jui-Hsiang, et al. *Modified ORB Strategies with Threshold Adjusting on Taiwan Futures Market*. 2019. [Link](https://www.researchgate.net/publication/334427771_Modified_ORB_Strategies_with_Threshold_Adjusting_on_Taiwan_Futures_Market)
+
+6. Wu, Mu-En, et al. *A Profitable Day Trading Strategy*. 2024. [PDF](https://papers.ssrn.com/sol3/Delivery.cfm/4729284.pdf?abstractid=4729284&mirid=1)
+
+7. Wu, Mu-En, et al. *Can Day Trading Really Be Profitable?*. 2024. [PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2488539_code1009018.pdf?abstractid=2488539&mirid=1)
+
+> **Note:** While none of these papers was used individually to develop AQTBORB, the system was inspired by a comprehensive review of the research landscape. We synthesized insights from various studies to create our proprietary tool, integrating elements from multiple strategies and methodologies.
+
+---
+
 ## License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
 

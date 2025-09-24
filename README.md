@@ -1,4 +1,4 @@
-# AQTBORB - Time Based Opening Range Breakout System
+# AQTBORB - Time Based Opening Range Breakout
 
 A Custom **NinjaTrader 8** automated strategy developed by **ARKO Quantum S.R.L.** for the American futures market.
 

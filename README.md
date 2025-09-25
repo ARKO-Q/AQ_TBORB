@@ -73,9 +73,9 @@ Here is a small sample of the results we got for our final version of the systme
 
 ![Alt text](/assets/simple_tests/complete_test.jpg?raw=true "Complete Test")
 
-![Alt text](/assets/trades/first_half_test.jpg?raw=true "First Half Test")
+![Alt text](/assets/simple_tests/first_half_test.jpg?raw=true "First Half Test")
 
-![Alt text](/assets/trades/second_half_test.jpg?raw=true "Second Half Test")
+![Alt text](/assets/simple_tests/second_half_test.jpg?raw=true "Second Half Test")
 
 ---
 

@@ -65,19 +65,33 @@ Note: If you do not wish to import the compiled .zip, you must download the sour
 
 ---
 
+## Research & Testing
+
+To construct this algo, we conducted countless tests in different modalities ranging from standard backtests and parameter optimizations to more complex Monte Carlo, walk-forward, and genetic processes.
+
+Here is a small sample of the results we got for our final version of the systme, with the chosen parameters for our period of live execution with NQ futures. It is notable that history shows this is a cyclical strategy that depends on various variables including volatility. We decided to move forward with this set afteridentifiying a market environment with strong volatiliy.
+
+![Alt text](/assets/simple_tests/complete_test.jpg?raw=true "Complete Test")
+
+![Alt text](/assets/trades/first_half_test.jpg?raw=true "First Half Test")
+
+![Alt text](/assets/trades/second_half_test.jpg?raw=true "Second Half Test")
+
+---
+
 ## Examples
 
 These are some of our highlighted trades from the period 03-2025 through 09-2025. They display the functionality of the algorithm during live execution for both positive and negative outcomes.
 
-![Alt text](/assets/screenshot_1.jpg?raw=true "screenshot 1")
+![Alt text](/assets/trades/screenshot_1.jpg?raw=true "screenshot 1")
 
-![Alt text](/assets/screenshot_2.jpg?raw=true "screenshot 2")
+![Alt text](/assets/trades/screenshot_2.jpg?raw=true "screenshot 2")
 
-![Alt text](/assets/screenshot_3.jpg?raw=true "screenshot 3")
+![Alt text](/assets/trades/screenshot_3.jpg?raw=true "screenshot 3")
 
-![Alt text](/assets/screenshot_4.jpg?raw=true "screenshot 4")
+![Alt text](/assets/trades/screenshot_4.jpg?raw=true "screenshot 4")
 
-![Alt text](/assets/screenshot_5.jpg?raw=true "screenshot 5")
+![Alt text](/assets/trades/screenshot_5.jpg?raw=true "screenshot 5")
 
 ---
 

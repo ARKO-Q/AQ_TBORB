@@ -67,7 +67,15 @@ Note: If you do not wish to import the compiled .zip, you must download the sour
 
 ## Examples
 
-...
+![Alt text](/assets/screenshot_1.jpg?raw=true "screenshot 1")
+
+![Alt text](/assets/screenshot_2.jpg?raw=true "screenshot 2")
+
+![Alt text](/assets/screenshot_3.jpg?raw=true "screenshot 3")
+
+![Alt text](/assets/screenshot_4.jpg?raw=true "screenshot 4")
+
+![Alt text](/assets/screenshot_5.jpg?raw=true "screenshot 5")
 
 ---
 

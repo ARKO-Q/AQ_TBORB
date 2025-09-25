@@ -69,7 +69,7 @@ Note: If you do not wish to import the compiled .zip, you must download the sour
 
 To construct this algo, we conducted countless tests in different modalities ranging from standard backtests and parameter optimizations to more complex Monte Carlo, walk-forward, and genetic processes.
 
-Here is a small sample of the results we got for our final version of the system, with the chosen parameters for our period of live execution with NQ futures. It is notable that history shows this is a cyclical strategy that depends on various variables including volatility. We decided to move forward with this set afteridentifiying a market environment with strong volatiliy.
+Here is a small sample of the results we got for our final version of the system, with the chosen parameters for our period of live execution with NQ futures. It is notable that history shows this is a cyclical strategy that depends on various variables including volatility. We decided to move forward with this set after identifiying a market environment with strong volatiliy.
 
 ![Alt text](/assets/simple_tests/complete_test.jpg?raw=true "Complete Test")
 

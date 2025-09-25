@@ -67,6 +67,8 @@ Note: If you do not wish to import the compiled .zip, you must download the sour
 
 ## Examples
 
+These are some of our highlighted trades from the period 03-2025 through 09-2025. They display the functionality of the algorithm during live execution for both positive and negative outcomes.
+
 ![Alt text](/assets/screenshot_1.jpg?raw=true "screenshot 1")
 
 ![Alt text](/assets/screenshot_2.jpg?raw=true "screenshot 2")
